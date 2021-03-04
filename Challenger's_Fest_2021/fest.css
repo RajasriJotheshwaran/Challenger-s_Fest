@@ -1,0 +1,29 @@
+.navbar-inverse { 
+    background: transparent;
+    background-color: transparent;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+body{
+      
+      background-image: url(Images/Imagemap.jpg);
+      background-size: cover;
+      height: 40vh;
+
+  }
+  #myNavbar  .navbar-nav .active{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: #00ffe1;
+    }
+    #myNavbar .navbar-nav  li  a{
+        font-size: 18px;
+        font-family: monospace;
+    }
+    #myNavbar .navbar-nav:hover{
+        color: aqua;
+    }
+    .navbar-brand{
+        background-color: transparent;
+    }
